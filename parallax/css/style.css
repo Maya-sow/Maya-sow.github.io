@@ -1,0 +1,92 @@
+
+html, body {
+
+height: 100%;
+
+
+}
+
+.secOne, .secTwo, .secThree, .secFour {
+
+	height: 100%;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	position: relative;
+
+}
+
+
+
+.secOne {
+
+background-image: url(../images/plant1.jpg);
+
+
+}
+
+
+.secTwo {
+
+background-image: url(../images/plant2.jpg);
+
+
+
+}
+
+
+
+.secThree {
+background-image: url(../images/plant3.jpg);
+
+
+
+}
+
+
+
+.secFour {
+
+background-image: url(../images/plant4.jpg);
+
+
+}
+
+
+
+
+.title {
+position: absolute;
+width: 100%;
+height: 100px;
+top: 50%;
+background-color: white;
+text-align: center;
+
+}
+
+
+
+
+.sectionText {
+background-color: white;
+width: 100%;
+height: 100px;
+
+}
+
+
+
+
+.imageStyle {
+
+
+
+
+}
+
+
+
+
+
+
